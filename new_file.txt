@@ -3,7 +3,7 @@ another new line added.
 a new line added.
 second line added.
 another commit.
-new commit.
+new commit
 nw cmt.
 1
 22
