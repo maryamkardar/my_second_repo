@@ -6,5 +6,5 @@ another commit
 new commit
 nw cmt.
 1
-22
+2
 3
