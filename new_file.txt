@@ -4,6 +4,6 @@ a new line added
 second line added.
 another commit
 new commit
-nw cmt
+nw cm
 
 
